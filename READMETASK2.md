@@ -13,8 +13,6 @@ The Very Large Prime Number Calculation project utilizes a linked list to repres
 - Each node can successfully store a 64-bit integer without overflow.
 - The primality test is limited to smaller divisors for simplicity; enhancements could be implemented for more comprehensive testing.
 
-## Publicly Accessible GitHub Link
-[GitHub Repository](https://github.com/yourusername/your-repository)  <!-- Replace with your actual GitHub link -->
 
 ## Challenges Faced
 - Managing memory effectively while using a linked list to store a large number without causing leaks.
