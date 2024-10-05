@@ -15,8 +15,6 @@ The CPU Process Scheduling Algorithm is designed to manage the execution of mult
 - The CPU time assigned per cycle is also a positive integer.
 - The scheduler is capable of handling dynamic additions of new processes at any time during execution.
 
-## Publicly Accessible GitHub Link
-[GitHub Repository](https://github.com/yourusername/your-repository)  <!-- Replace with your actual GitHub link -->
 
 ## Challenges Faced
 - Ensuring that processes are correctly removed from the circular linked list once they have completed execution.
